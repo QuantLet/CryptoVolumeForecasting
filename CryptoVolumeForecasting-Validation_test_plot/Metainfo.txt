@@ -1,0 +1,11 @@
+Name of Quantlet:    'CryptoVolumeForecasting-Validation_test_plot'
+
+Published in:        'Cryptocurrency volume forecasting'
+
+Description:         'This Quantlet visualizes the market volume prediction for various methods and different time periods.'
+
+Keywords:            'cryptocurrency, Bitcoin, visualization, LSTM, TBATS, SARIMAX'
+
+Author:              Ilyas Agakishiev
+
+

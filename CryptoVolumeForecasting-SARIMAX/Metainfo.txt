@@ -1,0 +1,11 @@
+Name of Quantlet:    'CryptoVolumeForecasting-SARIMAX'
+
+Published in:        'Cryptocurrency volume forecasting'
+
+Description:         'This Quantlet runs the SARIMAX model for cryptocurrency volume forecasting.'
+
+Keywords:            'SARIMAX, statistical models, cryptocurrency, Bitcoin'
+
+Author:              Ilyas Agakishiev
+
+
