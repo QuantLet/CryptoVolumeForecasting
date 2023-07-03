@@ -32,7 +32,7 @@ def quotes_compressor(period="1D"):
     df_full = df_full.sort_index()
     return df_full
 
-# Aggregate order volume data, generate some featuress
+# Aggregate order volume data, generate some features
 def order_volume_compressor(period="1D"):
     df                     = pd.read_csv(r"\data\orders_2019_2020.csv") # Set your path here
     df["input_amount"]     = df["input_amount"]*(-1)

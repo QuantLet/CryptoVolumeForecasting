@@ -1,0 +1,11 @@
+Name of Quantlet:    'CryptoVolumeForecasting-Preprocessing'
+
+Published in:        'Cryptocurrency volume forecasting'
+
+Description:         'This Quantlet does some initial preprocessing of the raw data from Nuri and sources data from other providers. Please note that raw data from Nuri is not provided due to its size of several gigabytes (GB)'
+
+Keywords:            'cryptocurrency, Bitcoin, preprocessing'
+
+Author:              Ilyas Agakishiev
+
+

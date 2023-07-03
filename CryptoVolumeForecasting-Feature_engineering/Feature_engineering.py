@@ -43,7 +43,7 @@ df["quoted_at"] = pd.DatetimeIndex(df["quoted_at"]).tz_localize(None)
 df = df.merge(fgi,left_on="quoted_at",right_on="Date", how="left")
 df = df.fillna(method="ffill")
 vol["date"] = pd.to_datetime(vol["date"])
-df = df.merge(vol[["date", "volume_usd"]],left_on="quoted_at",right_on="date", how="left")
+df = df.merge(vol[["date", "volume_eur"]],left_on="quoted_at",right_on="date", how="left")
 df = df.fillna(method="ffill")
 
 euribor["date"] = pd.to_datetime(euribor["date"])
@@ -54,9 +54,9 @@ df = df.merge(eur_usd,left_on="quoted_at",right_on="date", how="left")
 
 df = df.fillna(method="ffill")
 
-df[["volume_usd","FGI","FGI_bin"]] = df[["volume_usd","FGI","FGI_bin"]].shift(6)
+df[["volume_eur","FGI","FGI_bin"]] = df[["volume_eur","FGI","FGI_bin"]].shift(6)
 
-df       = ta.add_all_ta_features(df, open="open", high="max", low="min", close="mid", volume="volume_usd", fillna=True)
+df       = ta.add_all_ta_features(df, open="open", high="max", low="min", close="mid", volume="volume_eur", fillna=True)
 df.index = df["quoted_at"]
 df["spread_ratio"]   = df["spread"]/df["mid"]
 df["volume_MA_buy"]  = -df["BTC_buy"].rolling(window=42).mean()
