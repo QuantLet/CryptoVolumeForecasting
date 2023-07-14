@@ -1,11 +1,11 @@
-Name of Quantlet:    'CryptoVolumeForecasting-Validation_test_plot'
+Name of QuantLet: CryptoVolumeForecasting-Validation_test_plot
 
-Published in:        'Cryptocurrency volume forecasting'
+Published in: Cryptocurrency liquidity forecasting
 
-Description:         'This Quantlet visualizes the market volume prediction for various methods and different time periods.'
+Description: This Quantlet visualizes the market liquidity prediction for various methods and different time periods.
 
-Keywords:            'cryptocurrency, Bitcoin, visualization, LSTM, TBATS, SARIMAX'
+Keywords: cryptocurrency, Bitcoin, visualization, LSTM, TBATS, SARIMAX
 
-Author:              Ilyas Agakishiev
+Author: Ilyas Agakishiev
 
-
+Submitted: Friday, 14 of July 2023 by Ilyas Agakishiev

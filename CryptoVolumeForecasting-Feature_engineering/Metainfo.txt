@@ -1,11 +1,11 @@
-Name of Quantlet:    'CryptoVolumeForecasting-Feature_engineering'
+Name of QuantLet: CryptoVolumeForecasting-Feature_engineering
 
-Published in:        'Cryptocurrency volume forecasting'
+Published in: Cryptocurrency liquidity forecasting
 
-Description:         'This Quantlet combines the data from various sources and generates new features to create one full dataset that can be used for LSTM.'
+Description: This Quantlet combines the data from various sources and generates new features to create one full dataset that can be used for LSTM.
 
-Keywords:            'cryptocurrency, Bitcoin, feature engineering'
+Keywords: cryptocurrency, Bitcoin, feature engineering
 
-Author:              Ilyas Agakishiev
+Author: Ilyas Agakishiev
 
-
+Submitted: Friday, 14 of July 2023 by Ilyas Agakishiev

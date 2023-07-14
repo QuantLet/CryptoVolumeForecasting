@@ -1,11 +1,11 @@
-Name of Quantlet:    'CryptoVolumeForecasting-LSTM'
+Name of QuantLet: CryptoVolumeForecasting-LSTM
 
-Published in:        'Cryptocurrency volume forecasting'
+Published in: Cryptocurrency liquidity forecasting
 
-Description:         'This Quantlet does wavelet preprocessing, builds and runs the LSTM model for cryptocurrency volume forecasting.'
+Description: This Quantlet does wavelet preprocessing, builds and runs the LSTM model for cryptocurrency liquidity forecasting.
 
-Keywords:            'LSTM, machine learning, cryptocurrency, Bitcoin'
+Keywords: LSTM, machine learning, cryptocurrency, Bitcoin
 
-Author:              Ilyas Agakishiev
+Author: Ilyas Agakishiev
 
-
+Submitted: Friday, 14 of July 2023 by Ilyas Agakishiev

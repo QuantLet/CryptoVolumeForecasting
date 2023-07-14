@@ -1,11 +1,11 @@
-Name of Quantlet:    'CryptoVolumeForecasting-TBATS'
+Name of Quantlet: CryptoVolumeForecasting-TBATS
 
-Published in:        'Cryptocurrency volume forecasting'
+Published in: Cryptocurrency liquidity forecasting
 
-Description:         'This Quantlet runs the TBATS model for cryptocurrency volume forecasting.'
+Description: This Quantlet runs the TBATS model for cryptocurrency volume forecasting.
 
-Keywords:            'TBATS, statistical models, cryptocurrency, Bitcoin'
+Keywords: TBATS, statistical models, cryptocurrency, Bitcoin
 
-Author:              Ilyas Agakishiev
+Author: Ilyas Agakishiev
 
-
+Submitted: Friday, 14 of July 2023 by Ilyas Agakishiev

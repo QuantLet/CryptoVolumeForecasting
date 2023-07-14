@@ -1,11 +1,11 @@
-Name of Quantlet:    'CryptoVolumeForecasting-Symlet'
+Name of QuantLet: CryptoVolumeForecasting-Symlet
 
-Published in:        'Cryptocurrency volume forecasting'
+Published in: Cryptocurrency liquidity forecasting
 
-Description:         'This Quantlet visualises the symlet-4 father and mother wavelets.'
+Description: This Quantlet visualises the symlet-4 father and mother wavelets.
 
-Keywords:            'symlet, wavelet, preprocessing, visualisation'
+Keywords: symlet, wavelet, preprocessing, visualisation
 
-Author:              Ilyas Agakishiev
+Author: Ilyas Agakishiev
 
-
+Submitted: Friday, 14 of July 2023 by Ilyas Agakishiev

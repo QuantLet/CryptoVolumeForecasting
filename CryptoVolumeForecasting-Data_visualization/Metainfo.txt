@@ -1,11 +1,11 @@
-Name of Quantlet:    'CryptoVolumeForecasting-Data_visualization'
+Name of QuantLet: CryptoVolumeForecasting-Data_visualization
 
-Published in:        'Cryptocurrency volume forecasting'
+Published in: Cryptocurrency liquidity forecasting
 
-Description:         'This Quantlet visualises the amount of Bitcoin bought and sold using histograms, box plots and scatterplots. Also visualizes input data, such as volume, FG index, EUR/USD exchange rate and EURIBOR'
+Description: This Quantlet visualises the amount of Bitcoin bought and sold using histograms, box plots and scatterplots. Also visualizes input data, such as volume, FG index, EUR/USD exchange rate and EURIBOR.
 
-Keywords:            'cryptocurrency, Bitcoin, visualization, histogram, scatterplot, box plot'
+Keywords: cryptocurrency, Bitcoin, visualization, histogram, scatterplot, box plot
 
-Author:              Ilyas Agakishiev
+Author: Ilyas Agakishiev
 
-
+Submitted: Friday, 14 of July 2023 by Ilyas Agakishiev
