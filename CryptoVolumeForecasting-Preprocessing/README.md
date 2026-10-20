@@ -7,7 +7,7 @@
 ```
 Name of QuantLet: CryptoVolumeForecasting-Preprocessing
 
-Published in: Cryptocurrency liquidity forecasting
+Published in: Cryptocurrency liquidity forecasting'
 
 Description: This Quantlet does some initial preprocessing of the raw data from Nuri and sources data from other providers. Please note that raw data from Nuri is not provided due to its size of several gigabytes (GB)
 
